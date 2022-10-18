@@ -35,7 +35,7 @@
 
 
 
-![helloworld-59361-3](프론트엔드 CS #1 브라우저.assets/helloworld-59361-3.png)
+![helloworld-59361-3](README.assets/helloworld-59361-3.png)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-![helloworld-59361-6](프론트엔드 CS #1 브라우저.assets/helloworld-59361-6.png)
+![helloworld-59361-6](README.assets/helloworld-59361-6.png)
 
 - 파싱을 반복하면서 어휘 분석기로부터 새 토큰을 받아서 구문 규칙과 일치하는지 확인하고 맞으면 토큰에 해당하는 노드를 파싱트리에 추가
 - 맞지 않으면 파서는 토큰을 내부적으로 저장하고 토큰과 일치하는 규칙이 발견될 때 까지 요청한다. 맞는 규칙이 없는 경우 예외로 처리한다.
